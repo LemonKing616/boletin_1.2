@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejer_6 {
+public class Ejer_6_if_else {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

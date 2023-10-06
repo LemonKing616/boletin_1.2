@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejer_4 {
+public class Ejer_4_tiempo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

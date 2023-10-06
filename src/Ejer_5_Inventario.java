@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejer_5 {
+public class Ejer_5_Inventario {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

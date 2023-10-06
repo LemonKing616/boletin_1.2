@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejer_13 {
+public class Ejer_13_switch {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
