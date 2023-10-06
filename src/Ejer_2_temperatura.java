@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejer_2 {
+public class Ejer_2_temperatura {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

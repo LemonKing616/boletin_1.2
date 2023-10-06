@@ -1,4 +1,4 @@
-public class Ejer_1 {
+public class Ejer_1_variables {
     public static void main(String[] args) {
         String nombre = "Jose Pablo";
         int edad = 18;
